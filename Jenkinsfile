@@ -15,6 +15,6 @@ pipeline{
             steps {
                 echo 'Deploy realizado com sucesso!'
             }
-            
+        }    
     }
 }
